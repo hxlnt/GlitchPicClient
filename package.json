@@ -9,9 +9,7 @@
   "author": "Adina Shanholtz (FeyTechnologist)",
   "license": "ISC",
   "dependencies": {
-    "base64-img": "^1.0.3",
     "express": "^4.15.2",
-    "http": "0.0.0",
-    "node-base64-image": "^1.0.3"
+    "http": "0.0.0"
   }
 }
